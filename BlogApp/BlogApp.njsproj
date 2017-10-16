@@ -33,7 +33,7 @@
     <Compile Include="public\javascripts\bootstrap.min.js">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="public\javascripts\JavaScript.js">
+    <Compile Include="public\javascripts\boot.js">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="routes\index.js" />
